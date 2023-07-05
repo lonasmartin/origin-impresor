@@ -38,6 +38,8 @@ public class printer {
             }
         } else {
             System.out.println("El archivo no existe.");
+            System.out.println("Verifique la ruta.");            
+            
         }
 	}
 
